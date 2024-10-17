@@ -6,5 +6,3 @@ This repository demonstrates basic unit testing in Java using the JUnit framewor
 - Setting up test cases with `@BeforeEach` and `@AfterEach`
 - Testing exceptions and edge cases
 - Using assertions to validate results
-
-Feel free to explore the examples to get a better grasp of unit testing fundamentals in Java!
